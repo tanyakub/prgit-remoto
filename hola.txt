@@ -1,3 +1,7 @@
 hola.
 Esta linea está añadida desde el repositorio remoto.
+<<<<<<< HEAD
 Añado esta linea desde remoto para crear conflicto por divergencia.
+=======
+Con esta linea voy a crear conflicto por divergencia entre repositorio local y remoto.
+>>>>>>> 8c2afbd7839b70d1a5dc53023d77a92427ae5957
