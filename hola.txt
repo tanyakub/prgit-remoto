@@ -2,4 +2,4 @@ hola.
 Esta linea está añadida desde el repositorio remoto.
 Añado esta linea desde remoto para crear conflicto por divergencia.
 Con esta linea voy a crear conflicto por divergencia entre repositorio local y remoto.
-
+nuevo conflicto (desde local)
