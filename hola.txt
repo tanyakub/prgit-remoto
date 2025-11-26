@@ -1,2 +1,3 @@
 hola.
 Esta linea está añadida desde el repositorio remoto.
+Añado esta linea desde remoto para crear conflicto por divergencia.
